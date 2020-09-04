@@ -1,0 +1,16 @@
+commit 50c591239d2fb38561849a8cc2e8b130a0cc9f47
+Author: miguel <marcos@projetusti.com.br>
+Date:   Thu Sep 3 21:32:51 2020 -0300
+
+    quarto commit
+
+diff --git a/aula.txt b/aula.txt
+index f08022b..d9fc539 100644
+--- a/aula.txt
++++ b/aula.txt
+@@ -1,4 +1,3 @@
+-primeiro commit - teste 1
++p
+ segundo commit - teste 2
+-
+ terceiro commit - teste 3
